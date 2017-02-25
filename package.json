@@ -1,0 +1,23 @@
+{
+  "name": "internet-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/raba930/internetAlert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raba930/internetAlert/issues"
+  },
+  "homepage": "https://github.com/raba930/internetAlert#readme",
+  "dependencies": {
+    "ping": "^0.2.2",
+    "serialport": "^4.0.7"
+  }
+}
