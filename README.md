@@ -1,0 +1,5 @@
+# internetAlert
+
+## Installation
+
+`npm install`
